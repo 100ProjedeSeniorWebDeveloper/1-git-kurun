@@ -1,4 +1,4 @@
-# git-kurun
+# git-kurun.
 
 ##Sorun:
 * bu projeyi forklayıp readme.md dosyasında bir düzeltme yapın ve pull request olarak gönderin
