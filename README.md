@@ -12,4 +12,4 @@
 
 Saygılarımla 
 
-Kemal Kanok
+Kemal Kanok...
