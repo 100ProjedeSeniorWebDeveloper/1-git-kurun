@@ -1,4 +1,4 @@
-# git-kurun
+﻿# git-kurun
 
 ##Sorun:
 * bu projeyi forklayıp readme.md dosyasında bir düzeltme yapın ve pull request olarak gönderin
@@ -15,6 +15,7 @@ Saygılarımla
 Kemal Kanok...
 Kevser Sırça...
 .
-
+neunzehnhundertdreiundzwanzig
+Uğur Efe
 .
 
