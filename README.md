@@ -1,3 +1,4 @@
+﻿düzenlendi
 # git-kurun
 
 ##Sorun:
@@ -14,6 +15,7 @@ Saygılarımla
 
 Kemal Kanok...
 Kevser Sırça...
+cemal layık
 .
 
 .
