@@ -6,6 +6,7 @@
 ##Önemi?
 * İnsanların gerek düşünsel gerek matematiksel becerilerini birleştirdiği sistemerlerin bir parçarsı olamk için takım oyuncusu olmalıyız takım oyuncusu olmak için git
 * büyük projelerde veya küçük projelerde kodun üstünde hakimiyet kurun
+* updated by macar
 
 ##Kaynaklar
 * git-scm.com
