@@ -9,6 +9,8 @@
 
 ##Kaynaklar
 * git-scm.com
+* erdemoflaz.blogspot.com
+* stajodevleri.com
 
 Saygılarımla 
 
