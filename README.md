@@ -12,9 +12,4 @@
 
 Saygılarımla 
 
-Kemal Kanok...
-Kevser Sırça...
-.
-
-.
-
+Kemal Kanok
